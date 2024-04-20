@@ -8,7 +8,7 @@ by Dongheon Lee, Seokju Yun, and Youngmin Ro
 
 ## Installation
 ```bash
-https://github.com/dslisleedh/PLKSR.git
+git clone https://github.com/dslisleedh/PLKSR.git
 cd PLKSR
 conda create -n plksr python=3.10
 conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 pytorch-cuda=12.1 -c pytorch -c nvidia
