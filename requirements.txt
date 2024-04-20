@@ -1,0 +1,11 @@
+numpy
+basicsr
+opencv-python
+requests
+torch
+torchvision
+einops
+fvcore
+matplotlib
+tb-nightly
+timm
