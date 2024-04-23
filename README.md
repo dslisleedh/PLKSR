@@ -1,5 +1,8 @@
 # PLKSR: Partial Large Kernel CNNs for Efficient Super-Resolution
 -------
+
+![image](https://github.com/dslisleedh/PLKSR/blob/main/figs/teaser_PLKSR.png)
+
 This repository is an official implementation of the paper "Partial Large Kernel CNNs for Efficient Super-Resolution", Arxiv, 2024.
 
 by Dongheon Lee, Seokju Yun, and Youngmin Ro
@@ -18,7 +21,6 @@ python setup.py develop
 ```
 
 ## Train
-### Single GPU
 ```bash
 python plksr/train.py -opt=$CONFIG_PATH
 ```
