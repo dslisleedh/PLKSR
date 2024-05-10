@@ -9,6 +9,9 @@ by Dongheon Lee, Seokju Yun, and Youngmin Ro
 
 [[paper]](https://arxiv.org/abs/2404.11848) [[pretrained models]](https://drive.google.com/drive/u/1/folders/1lIkZ00y9cRQpLU9qmCIB2XtS-2ZoqKq8)
 
+## Updates
+- [2024-05-10] Real-PLKSR, to train PLKSR stably on real-world SISR task, has been provided. Implementation details are available in [issue](https://github.com/dslisleedh/PLKSR/issues/4) and you train/test it with the [neosr](https://github.com/muslll/neosr) framework.   
+
 ## Installation
 ```bash
 git clone https://github.com/dslisleedh/PLKSR.git
