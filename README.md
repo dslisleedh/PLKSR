@@ -10,6 +10,7 @@ by Dongheon Lee, Seokju Yun, and Youngmin Ro
 [[paper]](https://arxiv.org/abs/2404.11848) [[pretrained models]](https://drive.google.com/drive/u/1/folders/1lIkZ00y9cRQpLU9qmCIB2XtS-2ZoqKq8)
 
 ## Updates
+- [2024-08-19] PLKSR-IGConv+, capable of predicting multiple integer scales with a single model, has been released and is available in the [repository](https://github.com/dslisleedh/IGConv). ![IGConvPlus](https://github.com/dslisleedh/PLKSR/blob/main/figs/PLKSR_IGConvPlus.png)
 - [2024-05-22] Pre-trained models of the PLKSR on the DF2K dataset are released. ![df2k_quantitative](https://github.com/dslisleedh/PLKSR/blob/main/figs/Quantitative_DF2K.png)
 - [2024-05-10] Real-PLKSR, to train PLKSR stably on real-world SISR task, has been provided. Implementation details are available in [issue](https://github.com/dslisleedh/PLKSR/issues/4) and you train/test it with the [neosr](https://github.com/muslll/neosr) framework.   
 
